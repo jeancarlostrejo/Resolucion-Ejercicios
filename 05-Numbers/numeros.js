@@ -17,5 +17,5 @@ console.log(alturaRedondeada);
 const pesoRedondeado = Math.floor(peso);
 console.log(pesoRedondeado);
 
-const isEqual = Number.MIN_VALUE + 1 === Number.MIN_VALUE;
+const isEqual = Number.MAX_VALUE + 1 === Number.MAX_VALUE;
 console.log(isEqual);
