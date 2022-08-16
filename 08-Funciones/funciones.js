@@ -16,7 +16,7 @@ console.log(devuelveTrue());
 async function funcionAsyn() {
   return setTimeout(() => {
     console.log("Hola soy una promesa ");
-  }, 200);
+  }, 5000);
 }
 
 funcionAsyn();
