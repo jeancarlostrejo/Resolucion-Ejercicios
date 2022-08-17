@@ -1,1 +1,1 @@
-{"level":"error","message":"Error: Error personalizado de la funcion","service":"user-service"}
+{"level":"error","message":"Error: Esto es un error personalizado de la funcion","service":"user-service"}
