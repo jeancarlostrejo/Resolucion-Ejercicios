@@ -1,0 +1,20 @@
+{
+  "name": "10-modulos",
+  "version": "1.0.0",
+  "description": "Ejercicio de Modulos en Node.js del curso de JavaScript de OpenBootcamp",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "modulos",
+    "node.js",
+    "OpenBootcamp"
+  ],
+  "author": "Jean Carlos Trejo Villamizar",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "5.0.1"
+  }
+}
